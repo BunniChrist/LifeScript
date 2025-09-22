@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "free": "Free diagnostic",
+    "pro": "Pro dashboard",
+    "pricing": "Pricing",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Life Script",
+    "subtitle": "The simple, fast and holistic life check-up to move from Survival Mode to Life Mode.",
+    "line": "Discover the script you live today… and write the one you want to live.",
+    "cta": "Start free check-up",
+    "ctaSecondary": "Book a coaching call"
+  },
+  "how": {
+    "title": "How it works",
+    "steps": [
+      { "title": "Assess", "description": "Answer 3 clarity questions for every domain." },
+      { "title": "Understand", "description": "See where you stand between Survival Mode, Existential Mode and Life Mode." },
+      { "title": "Act", "description": "Turn insights into coaching, habits and tracking." }
+    ]
+  },
+  "benefits": {
+    "title": "Why Life Script",
+    "items": [
+      { "title": "Holistic clarity", "description": "Mind, Soul and Body insights in minutes." },
+      { "title": "Actionable guidance", "description": "Concrete next steps and coaching prompts." },
+      { "title": "Track your evolution", "description": "Compare entries and visualise change with charts." }
+    ]
+  },
+  "diagnostic": {
+    "freeBanner": "Free mode: answers are not stored.",
+    "exportCsv": "Download CSV",
+    "exportJson": "Download JSON",
+    "print": "Print / Save PDF",
+    "book": "Book a coaching call",
+    "upgrade": "Save & track with Pro",
+    "consent": "I consent to Life Script storing my answers to deliver the service.",
+    "delete": "Delete my data",
+    "modes": {
+      "survival": "Survival Mode",
+      "existential": "Existential Mode",
+      "life": "Life Mode"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "contact": "Contact"
+  },
+  "pricing": {
+    "title": "Choose your plan",
+    "monthly": "€9.90/month",
+    "trial": "14-day free trial",
+    "features": [
+      "Unlimited entries",
+      "Timeline & comparison charts",
+      "Stripe-secured billing",
+      "Export JSON/CSV"
+    ],
+    "cta": "Go Pro"
+  },
+  "contact": {
+    "title": "Contact us",
+    "description": "Reach out for partnerships, media or support at support@lifescript.app"
+  },
+  "admin": {
+    "title": "Admin overview",
+    "users": "Users",
+    "subscriptions": "Active subscriptions",
+    "latest": "Latest entries"
+  }
+}
