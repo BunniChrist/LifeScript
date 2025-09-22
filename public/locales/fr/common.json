@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "free": "Diagnostic gratuit",
+    "pro": "Tableau de bord Pro",
+    "pricing": "Tarifs",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Life Script",
+    "subtitle": "Le check-up de vie simple, rapide et holistique pour passer de Survival Mode à Life Mode.",
+    "line": "Découvre le scénario que tu vis aujourd’hui… et écris celui que tu veux vivre.",
+    "cta": "Commencer le check-up gratuit",
+    "ctaSecondary": "Réserver un appel de coaching"
+  },
+  "how": {
+    "title": "Comment ça marche",
+    "steps": [
+      { "title": "Diagnostiquer", "description": "Réponds à 3 questions de clarté pour chaque domaine." },
+      { "title": "Comprendre", "description": "Vois où tu te situes entre Survival Mode, Existential Mode et Life Mode." },
+      { "title": "Agir", "description": "Transforme les insights en coaching, habitudes et suivi." }
+    ]
+  },
+  "benefits": {
+    "title": "Pourquoi Life Script",
+    "items": [
+      { "title": "Clarté holistique", "description": "Des insights Mind, Soul et Body en quelques minutes." },
+      { "title": "Guidance actionnable", "description": "Des prochaines étapes concrètes et des pistes de coaching." },
+      { "title": "Suis ton évolution", "description": "Compare tes entrées et visualise les changements avec des graphiques." }
+    ]
+  },
+  "diagnostic": {
+    "freeBanner": "Mode gratuit : les réponses ne sont pas enregistrées.",
+    "exportCsv": "Télécharger le CSV",
+    "exportJson": "Télécharger le JSON",
+    "print": "Imprimer / Sauver en PDF",
+    "book": "Réserver un appel de coaching",
+    "upgrade": "Sauvegarder et suivre avec Pro",
+    "consent": "Je consens à ce que Life Script conserve mes réponses pour délivrer le service.",
+    "delete": "Supprimer mes données",
+    "modes": {
+      "survival": "Survival Mode",
+      "existential": "Existential Mode",
+      "life": "Life Mode"
+    }
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "contact": "Contact"
+  },
+  "pricing": {
+    "title": "Choisis ton plan",
+    "monthly": "9,90 € / mois",
+    "trial": "Essai gratuit 14 jours",
+    "features": [
+      "Entrées illimitées",
+      "Chronologie et graphiques de comparaison",
+      "Paiement sécurisé Stripe",
+      "Export JSON/CSV"
+    ],
+    "cta": "Passer en Pro"
+  },
+  "contact": {
+    "title": "Nous contacter",
+    "description": "Contacte-nous pour un partenariat, les médias ou le support sur support@lifescript.app"
+  },
+  "admin": {
+    "title": "Vue d’ensemble Admin",
+    "users": "Utilisateurs",
+    "subscriptions": "Abonnements actifs",
+    "latest": "10 dernières entrées"
+  }
+}
